@@ -22,7 +22,7 @@ A simple and efficient To-Do List Manager web application to help you keep track
 
    ```
 
-   git clone https://github.com/Anubhav7singh/Todolistmanager.git
+   git clone https://github.com/Anubhav7singh/Todolist-manager.git
 
 
    ```
